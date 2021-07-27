@@ -1,0 +1,1721 @@
+1. Front Genet. 2018 Nov 29;9:589. doi: 10.3389/fgene.2018.00589. eCollection 2018.
+
+Identification of Potential Prognostic Genes for Neuroblastoma.
+
+Zhong X(1)(2)(3), Liu Y(1)(2), Liu H(1)(2), Zhang Y(3), Wang L(1)(2), Zhang 
+H(1)(2).
+
+Author information:
+(1)College of Computer Science and Technology, Jilin University, Changchun, 
+China.
+(2)Key Laboratory of Symbolic Computation and Knowledge Engineering, Ministry of 
+Education, Jilin University, Changchun, China.
+(3)Department of Pediatric Oncology, The First Hospital of Jilin University, 
+Changchun, China.
+
+Background and Objective: Neuroblastoma (NB), the most common pediatric solid 
+tumor apart from brain tumor, is associated with dismal long-term survival. The 
+aim of this study was to identify a gene signature to predict the prognosis of 
+NB patients. Materials and Methods: GSE49710 dataset from the Gene Expression 
+Omnibus (GEO) database was downloaded and differentially expressed genes (DEGs) 
+were analyzed using R package "limma" and SPSS software. The gene ontology (GO) 
+and pathway enrichment analysis were established via DAVID database. Random 
+forest (RF) and risk score model were used to pick out the gene signature in 
+predicting the prognosis of NB patients. Simultaneously, the receiving operating 
+characteristic (ROC) and Kaplan-Meier curve were plotted. GSE45480 and GSE16476 
+datasets were employed to validate the robustness of the gene signature. 
+Results: A total of 131 DEGs were identified, which were mainly enriched in 
+cancer-related pathways. Four genes (ERCC6L, AHCY, STK33, and NCAN) were 
+selected as a gene signature, which was included in the top six important 
+features in RF model, to predict the prognosis in NB patients, its area under 
+the curve (AUC) could reach 0.86, and Cox regression analysis revealed that the 
+4-gene signature was an independent prognostic factor of overall survival and 
+event-free survival. As well as in GSE16476. Additionally, the robustness of 
+discriminating different groups of the 4-gene signature was verified to have a 
+commendable performance in GSE45480 and GSE49710. Conclusion: The present study 
+identified a gene-signature in predicting the prognosis in NB, which may provide 
+novel prognostic markers, and some of the genes may be as treatment targets 
+according to biological experiments in the future.
+
+DOI: 10.3389/fgene.2018.00589
+PMCID: PMC6282001
+PMID: 30555514
+
+
+2. Cell Death Dis. 2019 Mar 13;10(3):246. doi: 10.1038/s41419-019-1477-5.
+
+The lncRNA TP73-AS1 is linked to aggressiveness in glioblastoma and promotes 
+temozolomide resistance in glioblastoma cancer stem cells.
+
+Mazor G(1), Levin L(2), Picard D(3)(4)(5)(6), Ahmadov U(3)(4)(5)(6), Carén H(7), 
+Borkhardt A(4), Reifenberger G(5), Leprivier G(4), Remke M(3)(4)(5)(6), Rotblat 
+B(8).
+
+Author information:
+(1)Department of Life Sciences, Ben-Gurion University of the Negev, Beer-Sheva, 
+Israel.
+(2)Bioinformatics Core Facility, National Institute for Biotechnology in the 
+Negev, Ben-Gurion University of the Negev, Beer-Sheva, Israel.
+(3)Department of Pediatric Neuro-Oncogenomics, German Cancer Research Center 
+(DKFZ), Heidelberg, Germany.
+(4)Department of Pediatric Oncology, Hematology, and Clinical Immunology, 
+Medical Faculty, University Hospital Düsseldorf, Düsseldorf, Germany.
+(5)Institute of Neuropathology, Medical Faculty, University Hospital Düsseldorf, 
+Düsseldorf, Germany.
+(6)German Cancer Consortium (DKTK), partner site Essen/Düsseldorf, Germany.
+(7)Sahlgrenska Cancer Center, Department of Pathology, Institute of Biomedicine, 
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(8)Department of Life Sciences, Ben-Gurion University of the Negev, Beer-Sheva, 
+Israel. rotblat@bgu.ac.il.
+
+Glioblastoma multiform (GBM) is the most common brain tumor characterized by a 
+dismal prognosis. GBM cancer stem cells (gCSC) or tumor-initiating cells are the 
+cell population within the tumor-driving therapy resistance and recurrence. 
+While temozolomide (TMZ), an alkylating agent, constitutes the first-line 
+chemotherapeutic significantly improving survival in GBM patients, resistance 
+against this compound commonly leads to GBM recurrence and treatment failure. 
+Although the roles of protein-coding transcripts, proteins and microRNA in gCSC, 
+and therapy resistance have been comprehensively investigated, very little is 
+known about the role of long noncoding RNAs (lncRNAs) in this context. Using 
+nonoverlapping, independent RNA sequencing and gene expression profiling 
+datasets, we reveal that TP73-AS1 constitutes a clinically relevant lncRNA in 
+GBM. Specifically, we demonstrate significant overexpression of TP73-AS1 in 
+primary GBM samples, which is particularly increased in the gCSC. More 
+importantly, we demonstrate that TP73-AS1 comprises a prognostic biomarker in 
+glioma and in GBM with high expression identifying patients with particularly 
+poor prognosis. Using CRISPRi to downregulate our candidate lncRNA in gCSC, we 
+demonstrate that TP73-AS1 promotes TMZ resistance in gCSC and is linked to 
+regulation of the expression of metabolism- related genes and ALDH1A1, a protein 
+known to be expressed in cancer stem cell markers and protects gCSC from TMZ 
+treatment. Taken together, our results reveal that high TP73-AS1 predicts poor 
+prognosis in primary GBM cohorts and that this lncRNA promotes tumor 
+aggressiveness and TMZ resistance in gCSC.
+
+DOI: 10.1038/s41419-019-1477-5
+PMCID: PMC6416247
+PMID: 30867410 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+3. Arch Med Res. 2016 Nov;47(8):644-655. doi: 10.1016/j.arcmed.2016.12.005.
+
+Gene Expression Profiling of Acute Lymphoblastic Leukemia in Children with Very 
+Early Relapse.
+
+Núñez-Enríquez JC(1), Bárcenas-López DA(2), Hidalgo-Miranda A(2), 
+Jiménez-Hernández E(3), Bekker-Méndez VC(4), Flores-Lujano J(1), Solis-Labastida 
+KA(5), Martínez-Morales GB(1), Sánchez-Muñoz F(6), Espinoza-Hernández LE(3), 
+Velázquez-Aviña MM(7), Merino-Pasaye LE(8), García Velázquez AJ(9), 
+Pérez-Saldívar ML(1), Mojica-Espinoza R(10), Ramírez-Bello J(11), 
+Jiménez-Morales S(12), Mejía-Aranguré JM(13); MIGICCL(14).
+
+Author information:
+(1)Unidad de Investigación Médica en Epidemiología Clínica, UMAE Hospital de 
+Pediatría, Centro Médico Nacional (CMN) "Siglo XXI", Instituto Mexicano del 
+Seguro Social (IMSS), Mexico City, Mexico.
+(2)Laboratorio de Genómica del Cáncer, Instituto Nacional de Medicina Genómica 
+(INMEGEN), Mexico City, Mexico.
+(3)Servicio de Hematología Pediátrica, Hospital General "Gaudencio González 
+Garza", Centro Médico Nacional (CMN) "La Raza", IMSS, Mexico City, Mexico.
+(4)Unidad de Investigación Médica en Inmunología e Infectología, Hospital de 
+Infectología "Dr. Daniel Méndez Hernández", "La Raza", IMSS, Mexico City, 
+Mexico.
+(5)Servicio de Hematología Pediátrica, UMAE Hospital de Pediatría, Centro Médico 
+Nacional (CMN) "Siglo XXI", Instituto Mexicano del Seguro Social (IMSS), Mexico 
+City, Mexico.
+(6)Departamento de Inmunología, Instituto Nacional de Cardiología "Ignacio 
+Chávez" (INCICh), Mexico City, Mexico.
+(7)Servicio de Onco-Pediatria, Hospital Juárez de México, Secretaria de Salud 
+(SSa), Mexico City, Mexico.
+(8)Servicio de Hematología Pediátrica, Centro Médico Nacional (CMN) "20 de 
+Noviembre", Instituto de Seguridad Social al Servicio de los Trabajadores del 
+Estado (ISSSTE), Mexico City, Mexico.
+(9)Servicio de Oncología, Hospital Pediátrico de Moctezuma, Secretaría de Salud 
+del D.F., Mexico City, Mexico.
+(10)Unidad de Genotipificación y Análisis de Expresión, Instituto Nacional de 
+Medicina Genómica, Mexico City, Mexico.
+(11)Unidad de Investigación de Enfermedades Metabólicas y Endócrinas, Hospital 
+Juárez de México, Mexico City, Mexico.
+(12)Laboratorio de Genómica del Cáncer, Instituto Nacional de Medicina Genómica 
+(INMEGEN), Mexico City, Mexico. Electronic address: sjimenez@inmegen.gob.mx.
+(13)Unidad de Investigación Médica en Epidemiología Clínica, UMAE Hospital de 
+Pediatría, Centro Médico Nacional (CMN) "Siglo XXI", Instituto Mexicano del 
+Seguro Social (IMSS), Mexico City, Mexico; Coordinación de Investigación en 
+Salud, Instituto Mexicano del Seguro Social (IMSS), Mexico City, Mexico. 
+Electronic address: juan.mejiaa@imss.gob.mx.
+(14)Mexican Inter-Institutional Group for the Identification of the Causes of 
+Childhood Leukaemia, Instituto Mexicano del Seguro Social, Instituto de 
+Seguridad Social al Servicio de los Trabajadores del Estado, Secretaría de 
+Salud, Secretaría de Salud del Gobierno del Distrito Federal, Mexico City, 
+México.
+
+BACKGROUND AND AIMS: Acute lymphoblastic leukemia (ALL) is the most common 
+childhood cancer worldwide. Mexican patients have high mortality rates, low 
+frequency of good prognosis biomarkers (i.e., ETV6-RUNX1) and a high proportion 
+is classified at the time of diagnosis with a high risk to relapse according to 
+clinical features. In addition, very early relapses are more frequently observed 
+than in other populations. The aim of the study was to identify new potential 
+biomarkers associated with very early relapse in Mexican ALL children through 
+transcriptome analysis.
+METHODS: Microarray gene expression profiling on bone marrow samples of 54 
+pediatric ALL patients, collected at time of diagnosis and/or at relapse, was 
+performed. Eleven patients presented relapse within the first 18 months after 
+diagnosis. Affymetrix Human Transcriptome Array 2.0 (HTA 2.0) was used to 
+perform gene expression analysis. Annotation and functional enrichment analyses 
+were carried out using Gene Ontology, KEGG pathway analysis and Ingenuity 
+Pathway Analysis tools.
+RESULTS: BLVRB, ZCCHC7, PAX5, EBF1, TMOD1 and BLNK were differentially expressed 
+(fold-change >2.0 and p value <0.01) between relapsed and non-relapsed patients. 
+Functional analysis of abnormally expressed genes revealed their important role 
+in cellular processes related to the development of hematological diseases, 
+cancer, cell death and survival and in cell-to-cell signaling interaction.
+CONCLUSIONS: Our data support previous findings showing the relevance of PAX5, 
+EBF1 and ZCCHC7 as potential biomarkers to identify a subgroup of ALL children 
+in high risk to relapse.
+
+Copyright © 2016 IMSS. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.arcmed.2016.12.005
+PMID: 28476192 [Indexed for MEDLINE]
+
+
+4. Cancer. 2016 Sep 1;122(17):2757-65. doi: 10.1002/cncr.30087. Epub 2016 May 31.
+
+Helping parents live with the hole in their heart: The role of health care 
+providers and institutions in the bereaved parents' grief journeys.
+
+Snaman JM(1), Kaye EC(1), Torres C(2), Gibson DV(1)(3), Baker JN(1)(3).
+
+Author information:
+(1)Department of Oncology, St. Jude Children's Research Hospital, Memphis, 
+Tennessee.
+(2)Department of Psychology, University of Memphis, Memphis, Tennessee.
+(3)Division of Quality of Life and Palliative Care, St. Jude Children's Research 
+Hospital, Memphis, Tennessee.
+
+BACKGROUND: Bereaved parents experience significant psychosocial and health 
+sequelae, suggesting that this population may benefit from the ongoing extension 
+of support and resources throughout the grief journey. The interaction of 
+hospital staff with patients and families at the end of a child's life and after 
+death profoundly affects parental grief, offering a unique opportunity for the 
+medical community to positively impact the bereavement experience. The current 
+study was conducted to explore the role of the health care team and medical 
+institutions in the grief journeys of parents whose child died a cancer-related 
+death.
+METHODS: Eleven bereaved parents participated in 2 focus groups. Responses to 
+each of the 3 main prompts were coded and analyzed independently using semantic 
+content analysis techniques.
+RESULTS: Four main concepts were identified within the parental narratives, 
+including the importance of strong and ongoing relationships between providers 
+and bereaved families, the importance of high-quality communication, the effect 
+of negative experiences between providers and families on parental grief, and 
+the importance of the institution's role in the grief journeys of bereaved 
+parents.
+CONCLUSIONS: Bereaved parents consistently identified the critical role played 
+by medical staff and medical institutions throughout the grief journey. Key 
+components of bereavement support identified by parents should serve to guide 
+the actions of providers as well as provide a template for the development of a 
+comprehensive bereavement program within an institution. Cancer 2016. © 2016 
+American Cancer Society. Cancer 2016;122:2757-2765. © 2016 American Cancer 
+Society.
+
+© 2016 American Cancer Society.
+
+DOI: 10.1002/cncr.30087
+PMID: 27244654 [Indexed for MEDLINE]
+
+
+5. PLoS One. 2019 Aug 22;14(8):e0221509. doi: 10.1371/journal.pone.0221509. 
+eCollection 2019.
+
+A comparative proteomic study of plasma in Colombian childhood acute 
+lymphoblastic leukemia.
+
+Calderon-Rodríguez SI(1), Sanabria-Salas MC(1)(2), Umaña-Perez A(1).
+
+Author information:
+(1)Universidad Nacional de Colombia-Sede Bogotá, Facultad de Ciencias, 
+Departamento de Química, Grupo de investigación en Hormonas, Bogotá, D.C., 
+Colombia.
+(2)Subdirección de Investigaciones, Instituto Nacional de Cancerología de 
+Colombia, Bogotá, D.C., Colombia.
+
+Acute lymphoblastic leukemia (ALL) is the most common childhood cancer. Owing to 
+the incorporation of risk-adapted therapy and the arrival of new directed 
+agents, the cure rate and survival of patients with ALL have improved 
+dramatically, get near to 90%. In Latin American countries, the mortality rates 
+of ALL are high, for example in Colombia, during the last decade, ALL has been 
+the most prevalent cancer among children between 0-14 years of age. In the face 
+of this public health problem and coupled with the fact that the knowledge of 
+the proteome of the child population is little, our investigation proposes the 
+study of the plasma proteome of Colombian children diagnosed with B-cell ALL 
+(B-ALL) to determine potential disease markers that could reflect processes 
+altered by the presence of the disease or in response to it. A proteomic study 
+by LC-MS/MS and quantification by label-free methods were performed in search of 
+proteins differentially expressed between healthy children and those diagnosed 
+with B-ALL. We quantified a total of 472 proteins in depleted blood plasma, and 
+25 of these proteins were differentially expressed (fold change >2, 
+Bonferroni-adjusted P-values <0.05). Plasma Aggrecan core protein, 
+alpha-2-HS-glycoprotein, coagulation factor XIII A chain and gelsolin protein 
+were examined by ELISA assay and compared to shotgun proteomics results. Our 
+data provide new information on the plasma proteome of Colombian children. 
+Additionally, these proteins may also have certain potential as illness markers 
+or as therapeutic targets in subsequent investigations.
+
+DOI: 10.1371/journal.pone.0221509
+PMCID: PMC6705836
+PMID: 31437251 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+6. Transl Cancer Res. 2018 Dec;7(6):1548-1560. doi: 10.21037/tcr.2018.11.30.
+
+Quantitative ubiquitylome analysis and crosstalk with proteome/acetylome 
+analysis identified novel pathways and targets of perifosine treatment in 
+neuroblastoma.
+
+Jiang M(1), Hua Z(1), Dong Y(1), Liu Z(2), Thiele CJ(2), Li Z(1).
+
+Author information:
+(1)Medical Research Center, Shengjing Hospital of China Medical University, 
+Shenyang 110004, China.
+(2)Cellular & Molecular Biology Section, Pediatric Oncology Branch, National 
+Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA.
+
+BACKGROUND: Perifosine, is a third generation alkylphospholipid analog which has 
+promising anti-tumor efficacy in clinical trials of refractory/recurrent 
+neuroblastoma (NB). However, perifosine's mechanism of action remains unclear. 
+Previously, we have shown that perifosine changes global proteome and acetylome 
+profiles in NB.
+METHODS: To obtain a more comprehensive understanding of the perifosine 
+mechanism, we performed a quantitative assessment of the lysine ubiquitylome in 
+SK-N-AS NB cells using SILAC labeling, affinity enrichment and high-resolution 
+liquid chromatography combined with mass spectrometry analysis. To analyse the 
+data of ubiquitylome, we performed enrichment analysis with gene ontology (GO), 
+the Encyclopedia of Genes and Genomes (KEGG) pathway, ubiquitylated lysine 
+motif, protein complex and protein domain. Protein-protein interaction was 
+conducted to explore the crosstalk between ubiquitylome and previous global 
+proteome/acetylome. Co-immunoprecipitation and western blotting were used to 
+validate the results of the ubiquitylome analysis.
+RESULTS: Altogether, 3,935 sites and 1,658 proteins were quantified. These 
+quantified ubiquitylated proteins participated in various cellular processes 
+such as binding, catalytic activity, biological regulation, metabolic process 
+and signaling pathways involving non-homologous end-joining, steroid 
+biosynthesis and Ras signaling pathway. Ubiquitylome and proteome presented 
+negative connection. We identified 607 sites which were modified with both 
+ubiquitination and acetylation. We selected 14 proteins carrying differentially 
+quantified lysine ubiquitination and acetylation sites at the threshold of 1.5 
+folds as potential targets. These proteins were enriched in activities 
+associated with ribosome, cell cycle and metabolism.
+CONCLUSIONS: Our study extends our understanding of the spectrum of novel 
+targets that are differentially ubiquitinated after perifosine treatment of NB 
+tumor cells.
+
+DOI: 10.21037/tcr.2018.11.30
+PMCID: PMC6370305
+PMID: 30761266
+
+
+7. Genome Biol. 2019 Nov 19;20(1):244. doi: 10.1186/s13059-019-1835-8.
+
+The CAFA challenge reports improved protein function prediction and new 
+functional annotations for hundreds of genes through experimental screens.
+
+Zhou N(1)(2), Jiang Y(3), Bergquist TR(4), Lee AJ(5), Kacsoh BZ(6)(7), Crocker 
+AW(8), Lewis KA(8), Georghiou G(9), Nguyen HN(1)(10), Hamid MN(1)(2), Davis 
+L(2), Dogan T(11)(12), Atalay V(13), Rifaioglu AS(13)(14), Dalkıran A(13), Cetin 
+Atalay R(15), Zhang C(16), Hurto RL(17), Freddolino PL(16)(17), Zhang Y(16)(17), 
+Bhat P(18), Supek F(19)(20), Fernández JM(21)(22), Gemovic B(23), Perovic 
+VR(23), Davidović RS(23), Sumonja N(23), Veljkovic N(23), Asgari E(24)(25), 
+Mofrad MRK(26), Profiti G(27)(28), Savojardo C(27), Martelli PL(27), Casadio 
+R(27), Boecker F(29), Schoof H(30), Kahanda I(31), Thurlby N(32), McHardy 
+AC(33)(34), Renaux A(35)(36)(37), Saidi R(12), Gough J(38), Freitas AA(39), 
+Antczak M(40), Fabris F(39), Wass MN(40), Hou J(41)(42), Cheng J(42), Wang 
+Z(43), Romero AE(44), Paccanaro A(44), Yang H(45)(46), Goldberg T(47), Zhao 
+C(48)(49)(50), Holm L(51), Törönen P(51), Medlar AJ(51), Zosa E(52), Borukhov 
+I(53), Novikov I(54), Wilkins A(55), Lichtarge O(55), Chi PH(56), Tseng WC(57), 
+Linial M(58), Rose PW(59), Dessimoz C(60)(61)(62), Vidulin V(63), Dzeroski 
+S(64)(65), Sillitoe I(66), Das S(67), Lees JG(67)(68), Jones DT(69)(70), Wan 
+C(71)(69), Cozzetto D(71)(69), Fa R(71)(69), Torres M(44), Warwick Vesztrocy 
+A(70)(72), Rodriguez JM(73), Tress ML(74), Frasca M(75), Notaro M(75), Grossi 
+G(75), Petrini A(75), Re M(75), Valentini G(75), Mesiti M(75)(76), Roche DB(77), 
+Reeb J(77), Ritchie DW(78), Aridhi S(78), Alborzi SZ(78)(79), Devignes 
+MD(78)(80)(79), Koo DCE(81), Bonneau R(82)(83), Gligorijević V(84), Barot M(85), 
+Fang H(86), Toppo S(87), Lavezzo E(87), Falda M(88), Berselli M(87), Tosatto 
+SCE(89)(90), Carraro M(90), Piovesan D(90), Ur Rehman H(91), Mao Q(92)(93), 
+Zhang S(92), Vucetic S(92), Black GS(94)(95), Jo D(94)(95), Suh E(94), Dayton 
+JB(94)(95), Larsen DJ(94)(95), Omdahl AR(94)(95), McGuffin LJ(96), Brackenridge 
+DA(96), Babbitt PC(97)(98), Yunes JM(99)(98), Fontana P(100), Zhang F(101)(102), 
+Zhu S(103)(104)(105), You R(103)(104)(105), Zhang Z(103)(105), Dai S(103)(105), 
+Yao S(103)(104), Tian W(106)(107), Cao R(108), Chandler C(108), Amezola M(108), 
+Johnson D(108), Chang JM(109), Liao WH(109), Liu YW(109), Pascarelli S(110), 
+Frank Y(111), Hoehndorf R(112), Kulmanov M(112), Boudellioua I(113)(114), 
+Politano G(115), Di Carlo S(115), Benso A(115), Hakala K(116)(117), Ginter 
+F(116)(118), Mehryary F(116)(117), Kaewphan S(116)(117)(119), Björne 
+J(120)(121), Moen H(118), Tolvanen MEE(122), Salakoski T(120)(121), Kihara 
+D(123)(124), Jain A(125), Šmuc T(126), Altenhoff A(127)(128), Ben-Hur A(129), 
+Rost B(47)(130), Brenner SE(131), Orengo CA(67), Jeffery CJ(132), Bosco G(133), 
+Hogan DA(6)(8), Martin MJ(9), O'Donovan C(9), Mooney SD(4), Greene CS(134)(135), 
+Radivojac P(136), Friedberg I(137).
+
+Author information:
+(1)Veterinary Microbiology and Preventive Medicine, Iowa State University, Ames, 
+IA, USA.
+(2)Program in Bioinformatics and Computational Biology, Ames, IA, USA.
+(3)Indiana University Bloomington, Bloomington, Indiana, USA.
+(4)Department of Biomedical Informatics and Medical Education, University of 
+Washington, Seattle, WA, USA.
+(5)Department of Systems Pharmacology and Translational Therapeutics, University 
+of Pennsylvania, Philadelphia, PA, USA.
+(6)Geisel School of Medicine at Dartmouth, Hanover, NH, USA.
+(7)Department of Molecular and Systems Biology, Hanover, NH, USA.
+(8)Department of Microbiology and Immunology, Geisel School of Medicine at 
+Dartmouth, Hanover, NH, USA.
+(9)European Molecular Biology Laboratory, European Bioinformatics Institute 
+(EMBL-EBI), Hinxton, United Kingdom.
+(10)Program in Computer Science, Ames, IA, USA.
+(11)Department of Computer Engineering, Hacettepe University, Ankara, Turkey.
+(12)European Molecular Biolo gy Labora tory, European Bioinformatics Institute 
+(EMBL-EBI), Cambridge, UK.
+(13)Department of Computer Engineering, Middle East Technical University (METU), 
+Ankara, Turkey.
+(14)Department of Computer Engineering, Iskenderun Technical University, Hatay, 
+Turkey.
+(15)CanSyL, Graduate School of Informatics, Middle East Technical University, 
+Ankara, Turkey.
+(16)Department of Computational Medicine and Bioinformatics, University of 
+Michigan, Ann Arbor, MI, USA.
+(17)Department of Biological Chemistry, University of Michigan, Ann Arbor, MI, 
+USA.
+(18)Achira Labs, Bangalore, India.
+(19)Institute for Research in Biomedicine (IRB Barcelona), Barcelona, Spain.
+(20)Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain.
+(21)INB Coordination Unit, Life Sciences Department, Barcelona Supercomputing 
+Center, Barcelona, Catalonia, Spain.
+(22)(former) INB GN2, Structural and Computational Biology Programme, Spanish 
+National Cancer Research Centre, Barcelona, Catalonia, Spain.
+(23)Laboratory for Bioinformatics and Computational Chemistry, Institute of 
+Nuclear Sciences VINCA, University of Belgrade, Belgrade, Serbia.
+(24)Molecular Cell Biomechanics Laboratory, Departments of Bioengineering, 
+University of California Berkeley, Berkeley, CA, USA.
+(25)Computational Biology of Infection Research, Helmholtz Centre for Infection 
+Research, Berkeley, CA, USA.
+(26)Departments of Bioengineering and Mechanical Engineering, Berkeley, CA, USA.
+(27)Bologna Biocomputing Group, Department of Pharmacy and Biotechnology, 
+University of Bologna, Bologna, Italy.
+(28)National Research Council, IBIOM, Bologna, Italy.
+(29)University of Bonn: INRES Crop Bioinformatics, Bonn, North Rhine-Westphalia, 
+Germany.
+(30)INRES Crop Bioinformatics, University of Bonn, Bonn, Germany.
+(31)Gianforte School of Computing, Montana State University, Bozeman, Montana, 
+USA.
+(32)University of Bristol, Computer Science, Bristol, Bristol, United Kingdom.
+(33)Computational Biology of Infection Research, Helmholtz Centre for Infection 
+Research, Brunswick, Germany.
+(34)RESIST, DFG Cluster of Excellence 2155, Brunswick, Germany.
+(35)Interuniversity Institute of Bioinformatics in Brussels, Université libre de 
+Bruxelles - Vrije Universiteit Brussel, Brussels, Belgium.
+(36)Machine Learning Group, Université libre de Bruxelles, Brussels, Belgium.
+(37)Artificial Intelligence lab, Vrije Universiteit Brussel, Brussels, Belgium.
+(38)MRC Laboratory of Molecular Biology, Cambridge, United Kingdom.
+(39)University of Kent, School of Computing, Canterbury, United Kingdom.
+(40)School of Biosciences, University of Kent, Canterbury, Kent, United Kingdom.
+(41)University of Missouri, Computer Science, Columbia, Missouri, USA.
+(42)Department of Electrical Engineering and Computer Science, University of 
+Missouri, Columbia, MO, USA.
+(43)University of Miami, Coral Gables, Florida, USA.
+(44)Centre for Systems and Synthetic Biology, Department of Computer Science, 
+Royal Holloway, University of London, Egham, Surrey, United Kingdom.
+(45)School of Mathematics, Statistics and Applied Mathematics, National 
+University of Ireland, Galway, Galway, Ireland.
+(46)Technical University of Munich, Garching, Germany.
+(47)Department of Informatics, Bioinformatics & Computational Biology-i12, 
+Technische Universitat Munchen, Munich, Germany.
+(48)Faculty for Informatics, Garching, Germany.
+(49)Department for Bioinformatics and Computational Biology, Garching, Germany.
+(50)School of Computing Sciences and Computer Engineering, Hattiesburg, 
+Mississippi, USA.
+(51)Institute of Biotechnology, Helsinki Institute of Life Sciences, University 
+of Helsinki, Finland, Helsinki, Finland.
+(52)Institute of Biotechnology, University of Helsinki, Helsinki, Finland.
+(53)Compugen Ltd., Holon, Israel.
+(54)Baylor College of Medicine, Department of Biochemistry and Molecular 
+Biology, Houston, TX, USA.
+(55)Baylor College of Medicine, Department of Molecular and Human Genetics, 
+Houston, TX, USA.
+(56)National TsingHua University, Hsinchu, Taiwan.
+(57)Department of Electrical Engineering in National Tsing Hua University, 
+Hsinchu City, Taiwan.
+(58)The Hebrew University of Jerusalem, Jerusalem, Israel.
+(59)University of California San Diego, San Diego Supercomputer Center, La 
+Jolla, California, USA.
+(60)Department of Computational Biology and Center for Integrative Genomics, 
+University of Lausanne, Lausanne, Switzerland.
+(61)Department of Genetics, Evolution & Environment, and Department of Computer 
+Science, University College London, London, UK.
+(62)Swiss Institute of Bioinformatics, Lausanne, Switzerland.
+(63)Department of Knowledge Technologies, Jozef Stefan Institute, Ljubljana, 
+Slovenia.
+(64)Jozef Stefan Institute, Ljubljana, Slovenia.
+(65)Jozef Stefan International Postgraduate School, Ljubljana, Slovenia.
+(66)Research Department of Structural and Molecular Biology, University College 
+London, London, England.
+(67)Research Department of Structural and Molecular Biology, University College 
+London, London, United Kingdom.
+(68)Department of Health and Life Sciences, Oxford Brookes University, London, 
+UK.
+(69)The Francis Crick Institute, Biomedical Data Science Laboratory, London, 
+United Kingdom.
+(70)Department of Genetics, Evolution and Environment, University College 
+London, Gower Street, London, WC1E 6BT, United Kingdom.
+(71)Department of Computer Science, University College London, London, United 
+Kingdom.
+(72)SIB Swiss Institute of Bioinformatics, Lausanne, 1015, Switzerland.
+(73)Cardiovascular Proteomics Laboratory, Centro Nacional de Investigaciones 
+Cardiovasculares Carlos III (CNIC), Madrid, Spain.
+(74)Spanish National Cancer Research Centre (CNIO), Madrid, Spain.
+(75)Università degli Studi di Milano - Computer Science Department - 
+AnacletoLab, Milan, Milan, Italy.
+(76)Institut de Biologie Computationnelle, LIRMM, CNRS-UMR 5506, Universite de 
+Montpellier, Montpellier, France.
+(77)Department of Informatics, Bioinformatics and Computational Biology-i12, 
+Technische Universitat Munchen, Munich, Germany.
+(78)University of Lorraine, CNRS, Inria, LORIA, Nancy, 54000, France.
+(79)Inria, Nancy, France.
+(80)University of Lorraine, Nancy, Lorraine, France.
+(81)Department of Biology, New York University, New York, NY, USA.
+(82)NYU Center for Data Science, New York, 10010, NY, USA.
+(83)Flatiron Institute, CCB, New York, 10010, NY, USA.
+(84)Center for Computational Biology (CCB), Flatiron Institute, Simons 
+Foundation, New York, New York, USA.
+(85)Center for Data Science, New York University, New York, 10011, NY, USA.
+(86)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK.
+(87)Department of Molecular Medicine, University of Padova, Padova, Italy.
+(88)Department of Biology, University of Padova, Padova, Italy.
+(89)CNR Institute of Neuroscience, Padova, Italy.
+(90)Department of Biomedical Sciences, University of Padua, Padova, Italy.
+(91)Department of Computer Science, National University of Computer and Emerging 
+Sciences, Peshawar, Khyber Pakhtoonkhwa, Pakistan.
+(92)Department of Computer and Information Sciences, Temple University, 
+Philadelphia, PA, USA.
+(93)University of California, Riverside, Philadelphia, PA, USA.
+(94)Department of Biology, Brigham Young University, Provo, UT, USA.
+(95)Bioinformatics Research Group, Provo, UT, USA.
+(96)School of Biological Sciences, University of Reading, Reading, England, 
+United Kingdom.
+(97)Department of Pharmaceutical Chemistry, San Francisco, CA, USA.
+(98)Department of Bioengineering and Therapeutic Sciences, University of 
+California, San Francisco, 94158, CA, USA.
+(99)UC Berkeley - UCSF Graduate Program in Bioengineering, University of 
+California, San Francisco, 94158, CA, USA.
+(100)Research and Innovation Center, Edmund Mach Foundation, San Michele 
+all'Adige, Italy.
+(101)State Key Laboratory of Genetic Engineering and Collaborative Innovation 
+Center for Genetics and Development, Fudan University, Shanghai, Shanghai, 
+China.
+(102)Department of Biostatistics and Computational Biology, School of Life 
+Sciences, Fudan University, Shanghai, Shanghai, China.
+(103)School of Computer Science and Shanghai Key Lab of Intelligent Information 
+Processing, Fudan University, Shanghai, China.
+(104)Institute of Science and Technology for Brain-Inspired Intelligence and 
+Shanghai Institute of Artificial Intelligence Algorithms, Fudan University, 
+Shanghai, China.
+(105)Key Laboratory of Computational Neuroscience and Brain-Inspired 
+Intelligence (Fudan University), Ministry of Education, Shanghai, China.
+(106)State Key Laboratory of Genetic Engineering and Collaborative Innovation 
+Center for Genetics and Development, Department of Biostatistics and 
+Computational Biology, School of Life Sciences, Fudan University, Shanghai, 
+Shanghai, China.
+(107)Department of Pediatrics, Brain Tumor Center, Division of Experimental 
+Hematology and Cancer Biology, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, OH, USA.
+(108)Department of Computer Science, Pacific Lutheran University, Tacoma, WA, 
+USA.
+(109)Department of Computer Science, National Chengchi University, Taipei, 
+Taiwan.
+(110)Okinawa Institute of Science and Technology, Tancha, Okinawa, Japan.
+(111)Tel Aviv University, Tel Aviv, Israel.
+(112)Computer, Electrical and Mathematical Sciences & Engineering Division, 
+Computational Bioscience Research Center, King Abdullah University of Science 
+and Technology, Thuwal, Jeddah, Saudi Arabia.
+(113)Computational Bioscience Research Center (CBRC), King Abdullah University 
+of Science and Technology, Thuwal, Saudi Arabia.
+(114)Computer, Electrical and Mathematical Sciences Engineering Division 
+(CEMSE), King Abdullah University of Science and Technology, Thuwal, Saudi 
+Arabia.
+(115)Control and Computer Engineering Department, Politecnico di Torino, Torino, 
+TO, Italy.
+(116)Department of Future Technologies, Turku NLP Group, University of Turku, 
+Turku, Finland.
+(117)University of Turku Graduate School (UTUGS), Turku, Finland.
+(118)University of Turku, Turku, Finland.
+(119)Turku Centre for Computer Science (TUCS), Turku, Finland.
+(120)Department of Future Technologies, Faculty of Science and Engineering, 
+University of Turku, Turku, FI-20014, Finland.
+(121)Turku Centre for Computer Science (TUCS), Agora, Vesilinnantie 3, Turku, 
+FI-20500, Finland.
+(122)Department of Future Technologies, University of Turku, Turku, Finland.
+(123)Department of Biological Sciences, Department of Computer Science, Purdue 
+University, 47907, IN, USA.
+(124)Department of Pediatrics, University of Cincinnati, Cincinnati, 45229, OH, 
+USA.
+(125)Department of Computer Science, Purdue University, West Lafayette, IN, USA.
+(126)Division of Electronics, Rudjer Boskovic Institute, Zagreb, Croatia.
+(127)Department of Computer Science, ETH Zurich, Zurich, Switzerland.
+(128)SIB Swiss Institute of Bioinformatics, Zurich, Switzerland.
+(129)Department of Computer Science, Colorado State University, Fort Collins, 
+CO, USA.
+(130)Institute for Food and Plant Sciences WZW, Technische Universität München, 
+Freising, Germany.
+(131)University of California, Berkeley, CA, USA.
+(132)Biological Sciences, University of Illinois at Chicago, Chicago, Illinois, 
+USA.
+(133)Department of Molecular and Systems Biology, Geisel School of Medicine at 
+Dartmouth, Hanover, NH, USA.
+(134)Department of Systems Pharmacology and Translational Therapeutics, Perelman 
+School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+(135)Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, 
+Pennsylvania, USA.
+(136)Khoury College of Computer Sciences, Northeastern University, Boston, MA, 
+USA. predrag@northeastern.edu.
+(137)Veterinary Microbiology and Preventive Medicine, Iowa State University, 
+Ames, IA, USA. idoerg@iastate.edu.
+
+BACKGROUND: The Critical Assessment of Functional Annotation (CAFA) is an 
+ongoing, global, community-driven effort to evaluate and improve the 
+computational annotation of protein function.
+RESULTS: Here, we report on the results of the third CAFA challenge, CAFA3, that 
+featured an expanded analysis over the previous CAFA rounds, both in terms of 
+volume of data analyzed and the types of analysis performed. In a novel and 
+major new development, computational predictions and assessment goals drove some 
+of the experimental assays, resulting in new functional annotations for more 
+than 1000 genes. Specifically, we performed experimental whole-genome mutation 
+screening in Candida albicans and Pseudomonas aureginosa genomes, which provided 
+us with genome-wide experimental data for genes associated with biofilm 
+formation and motility. We further performed targeted assays on selected genes 
+in Drosophila melanogaster, which we suspected of being involved in long-term 
+memory.
+CONCLUSION: We conclude that while predictions of the molecular function and 
+biological process annotations have slightly improved over time, those of the 
+cellular component have not. Term-centric prediction of experimental annotations 
+remains equally challenging; although the performance of the top methods is 
+significantly better than the expectations set by baseline methods in C. 
+albicans and D. melanogaster, it leaves considerable room and need for 
+improvement. Finally, we report that the CAFA community now involves a broad 
+range of participants with expertise in bioinformatics, biological 
+experimentation, biocuration, and bio-ontologies, working together to improve 
+functional annotation, computational function prediction, and our ability to 
+manage big data in the era of large experimental screens.
+
+DOI: 10.1186/s13059-019-1835-8
+PMCID: PMC6864930
+PMID: 31744546 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+8. Neoplasia. 2019 Mar;21(3):294-310. doi: 10.1016/j.neo.2019.01.004. Epub 2019 Feb 
+11.
+
+Comprehensive Investigation of miRNome Identifies Novel Candidate miRNA-mRNA 
+Interactions Implicated in T-Cell Acute Lymphoblastic Leukemia.
+
+Dawidowska M(1), Jaksik R(2), Drobna M(3), Szarzyńska-Zawadzka B(4), Kosmalska 
+M(5), Sędek Ł(6), Machowska L(7), Lalik A(8), Lejman M(9), Ussowicz M(10), 
+Kałwak K(11), Kowalczyk JR(12), Szczepański T(13), Witt M(14).
+
+Author information:
+(1)Institute of Human Genetics, Polish Academy of Sciences, Strzeszyńska 32, 
+60-479 Poznań, Poland. Electronic address: malgorzata.dawidowska@igcz.poznan.pl.
+(2)Silesian University of Technology, Akademicka 16, 44-100 Gliwice, Poland. 
+Electronic address: roman.jaksik@polsl.pl.
+(3)Institute of Human Genetics, Polish Academy of Sciences, Strzeszyńska 32, 
+60-479 Poznań, Poland. Electronic address: monika.drobna@igcz.poznan.pl.
+(4)Institute of Human Genetics, Polish Academy of Sciences, Strzeszyńska 32, 
+60-479 Poznań, Poland; Institute of Human Genetics, Polish Academy of Sciences, 
+Strzeszyńska 32, 60-479 Poznań, Poland. Electronic address: 
+bronislawa.szarzynska-zawadzka@igcz.poznan.pl.
+(5)Institute of Human Genetics, Polish Academy of Sciences, Strzeszyńska 32, 
+60-479 Poznań, Poland. Electronic address: maria.kosmalska@igcz.poznan.pl.
+(6)Department of Microbiology and Immunology, Medical University of Silesia in 
+Katowice, Jordana 19, 41-808 Zabrze, Poland. Electronic address: 
+lsedek@sum.edu.pl.
+(7)Clinic of Pediatric Oncology Hematology and Transplantology, Poznań 
+University of Medical Sciences, Szpitalna 27/33, 60-572 Poznań, Poland. 
+Electronic address: ludomilamachowska@poczta.fm.
+(8)Silesian University of Technology, Akademicka 16, 44-100 Gliwice, Poland. 
+Electronic address: anna.lalik@polsl.pl.
+(9)Laboratory of Genetic Diagnostics, Medical University of Lublin, Children's 
+University Hospital, Gębali 6, 20-093 Lublin, Poland. Electronic address: 
+monika.lejman@umlub.pl.
+(10)Department of Pediatric Bone Marrow Transplantation, Oncology, and 
+Hematology, Wroclaw Medical University, Borowska 213, 50-556 Wroclaw, Poland. 
+Electronic address: ussowicz@tlen.pl.
+(11)Department of Pediatric Bone Marrow Transplantation, Oncology, and 
+Hematology, Wroclaw Medical University, Borowska 213, 50-556 Wroclaw, Poland. 
+Electronic address: krzysztof.kalwak@gmail.com.
+(12)Department of Pediatric Hematology, Oncology and Transplantology, Medical 
+University of Lublin, Gębali 6, 20-093 Lublin, Poland. Electronic address: 
+jkowalcz@dsk.lublin.pl.
+(13)Department of Pediatric Hematology and Oncology, Zabrze, Medical University 
+of Silesia in Katowice, 3 Maja 13-15, 41-800 Zabrze, Poland. Electronic address: 
+szczep57@poczta.onet.pl.
+(14)Institute of Human Genetics, Polish Academy of Sciences, Strzeszyńska 32, 
+60-479 Poznań, Poland. Electronic address: michal.witt@igcz.poznan.pl.
+
+T-cell acute lymphoblastic leukemia (T-ALL) is an aggressive malignancy 
+originating from T-cell precursors. The genetic landscape of T-ALL has been 
+largely characterized by next-generation sequencing. Yet, the transcriptome of 
+miRNAs (miRNome) of T-ALL has been less extensively studied. Using small RNA 
+sequencing, we characterized the miRNome of 34 pediatric T-ALL samples, 
+including the expression of isomiRs and the identification of candidate novel 
+miRNAs (not previously annotated in miRBase). For the first time, we show that 
+immunophenotypic subtypes of T-ALL present different miRNA expression profiles. 
+To extend miRNome characteristics in T-ALL (to 82 T-ALL cases), we combined our 
+small RNA-seq results with data available in Gene Expression Omnibus. We report 
+on miRNAs most abundantly expressed in pediatric T-ALL and miRNAs differentially 
+expressed in T-ALL versus normal mature T-lymphocytes and thymocytes, 
+representing candidate oncogenic and tumor suppressor miRNAs. Using eight target 
+prediction algorithms and pathway enrichment analysis, we identified 
+differentially expressed miRNAs and their predicted targets implicated in 
+processes (defined in Gene Ontology and Kyoto Encyclopedia of Genes and Genomes) 
+of potential importance in pathogenesis of T-ALL, including 
+interleukin-6-mediated signaling, mTOR signaling, and regulation of apoptosis. 
+We finally focused on hsa-mir-106a-363 cluster and functionally validated direct 
+interactions of hsa-miR-20b-5p and hsa-miR-363-3p with 3' untranslated regions 
+of their predicted targets (PTEN, SOS1, LATS2), overrepresented in regulation of 
+apoptosis. hsa-mir-106a-363 is a paralogue of prototypic oncogenic hsa-mir-17-92 
+cluster with yet unestablished role in the pathogenesis of T-ALL. Our study 
+provides a firm basis and data resource for functional analyses on the role of 
+miRNA-mRNA interactions in T-ALL.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neo.2019.01.004
+PMCID: PMC6372882
+PMID: 30763910 [Indexed for MEDLINE]
+
+
+9. Mol Hum Reprod. 2017 Dec 1;23(12):827-841. doi: 10.1093/molehr/gax056.
+
+Protein profile of mouse ovarian follicles grown in vitro.
+
+Anastácio A(1)(2), Rodriguez-Wallberg KA(2)(3), Chardonnet S(4), Pionneau C(4), 
+Fédérici C(5), Almeida Santos T(6)(7), Poirot C(1)(8).
+
+Author information:
+(1)Université Paris VI (UPMC), Paris, France.
+(2)Department of Oncology-Pathology, Karolinska Institutet and Laboratory of 
+Translational Fertility Preservation, Cancer Center Karolinska (CCK), Stockholm, 
+Sweden.
+(3)Reproductive Medicine, Department of Gynecology and Reproduction, Karolinska 
+University Hospital, Stockholm, Sweden.
+(4)Sorbonne Universités, UPMC Univ Paris 06, Inserm, UMS Omique, Plateforme P3S, 
+Paris, France.
+(5)3P5 Proteomics Facility, Université Paris Descartes, Paris, France.
+(6)Department of Human Reproduction, University Hospital of Coimbra, Coimbra, 
+Portugal.
+(7)Faculty of Medicine, University of Coimbra, Coimbra, Portugal.
+(8)Service d'Hématologie-Unité AJA, Hôpital Saint Louis, Paris, France.
+
+STUDY QUESTION: Could the follicle proteome be mapped by identifying specific 
+proteins that are common or differ between three developmental stages from the 
+secondary follicle (SF) to the antrum-like stage?
+SUMMARY ANSWER: From a total of 1401 proteins identified in the follicles, 609 
+were common to the three developmental stages investigated and 444 were found 
+uniquely at one of the stages.
+WHAT IS KNOWN ALREADY: The importance of the follicle as a functional structure 
+has been recognized; however, up-to-date the proteome of the whole follicle has 
+not been described. A few studies using proteomics have previously reported on 
+either isolated fully-grown oocytes before or after meiosis resumption or 
+cumulus cells.
+STUDY DESIGN, SIZE, DURATION: The experimental design included a validated mice 
+model for isolation and individual culture of SFs. The system was chosen as it 
+allows continuous evaluation of follicle growth and selection of follicles for 
+analysis at pre-determined developmental stages: SF, complete Slavjanski 
+membrane rupture (SMR) and antrum-like cavity (AF). The experiments were 
+repeated 13 times independently to acquire the material that was analyzed by 
+proteomics.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: SFs (n = 2166) were isolated from 
+B6CBA/F1 female mice (n = 42), 12 days old, from 15 l. About half of the 
+follicles isolated as SF were analyzed as such (n = 1143) and pooled to obtain 
+139 μg of extracted protein. Both SMR (n = 359) and AF (n = 124) were obtained 
+after individual culture of 1023 follicles in a microdrop system under oil, 
+selected for analysis and pooled, to obtain 339 μg and 170 μg of protein, 
+respectively. The follicle proteome was analyzed combining isoelectric focusing 
+(IEF) fractionation with 1D and 2D LC-MS/MS analysis to enhance protein 
+identification. The three protein lists were submitted to the 'Compare gene 
+list' tool in the PANTHER website to gain insights on the Gene Ontology 
+Biological processes present and to Ingenuity Pathway Analysis to highlight 
+protein networks. A label-free quantification was performed with 1D LC-MS/MS 
+analyses to emphasize proteins with different expression profiles between the 
+three follicular stages. Supplementary western blot analysis (using new 
+biological replicates) was performed to confirm the expression variations of 
+three proteins during follicle development in vitro.
+MAIN RESULTS AND THE ROLE OF CHANCE: It was found that 609 out of 1401 
+identified proteins were common to the three follicle developmental stages 
+investigated. Some proteins were identified uniquely at one stage: 71 of the 775 
+identified proteins in SF, 181 of 1092 in SMR and 192 of 1100 in AF. Additional 
+qualitative and quantitative analysis highlighted 44 biological processes 
+over-represented in our samples compared to the Mus musculus gene database. In 
+particular, it was possible to identify proteins implicated in the cell cycle, 
+calcium ion binding and glycolysis, with specific expressions and abundance, 
+throughout in vitro follicle development.
+LARGE SCALE DATA: Data are available via ProteomeXchange with identifier 
+PXD006227.
+LIMITATIONS, REASONS FOR CAUTION: The proteome analyses described in this study 
+were performed after in vitro development. Despite fractionation of the samples 
+before LC-MS/MS, proteomic approaches are not exhaustive, thus proteins that are 
+not identified in a group are not necessarily absent from that group, although 
+they are likely to be less abundant.
+WIDER IMPLICATIONS OF THE FINDINGS: This study allowed a general view of 
+proteins implicated in follicle development in vitro and it represents the most 
+complete catalog of the whole follicle proteome available so far. Not only were 
+well known proteins of the oocyte identified but also proteins that are probably 
+expressed only in granulosa cells.
+STUDY FUNDING/COMPETING INTEREST(S): This study was supported by the Portuguese 
+Foundation for Science and Technology, FCT (PhD fellowship SFRH/BD/65299/2009 to 
+A.A.), the Swedish Childhood Cancer Foundation (PR 2014-0144 to K.A.R-.W.) and 
+Stockholm County Council to K.A.R-.W. The authors of the study have no conflict 
+of interest to report.
+
+© The Author 2017. Published by Oxford University Press on behalf of the 
+European Society of Human Reproduction and Embryology.
+
+DOI: 10.1093/molehr/gax056
+PMCID: PMC5909860
+PMID: 29069483 [Indexed for MEDLINE]
+
+
+10. Epigenetics. 2016;11(1):74-84. doi: 10.1080/15592294.2016.1138195. Epub 2016 Jan 
+19.
+
+Genome-wide methylation profiling identifies novel methylated genes in 
+neuroblastoma tumors.
+
+Olsson M(1), Beck S(2), Kogner P(3), Martinsson T(4), Carén H(1).
+
+Author information:
+(1)a Sahlgrenska Cancer Center , Department of Pathology , Institute of 
+Biomedicine, Sahlgrenska Academy, University of Gothenburg , Sweden.
+(2)b Department of Cancer Biology , UCL Cancer Institute, University College 
+London , UK.
+(3)c Childhood Cancer Research Unit , Department of Woman and Child Health , 
+Karolinska Institute, Karolinska Hospital , Sweden.
+(4)d Department of Clinical Genetics , Institute of Biomedicine, Sahlgrenska 
+Academy, University of Gothenburg , Sweden.
+
+Neuroblastoma is a very heterogeneous tumor of childhood. The clinical spectra 
+range from very aggressive metastatic disease to spontaneous regression, even 
+without therapy. Aberrant DNA methylation pattern is a common feature of most 
+cancers. For neuroblastoma, it has been demonstrated both for single genes as 
+well as genome-wide, where a so-called methylator phenotype has been described. 
+Here, we present a study using Illumina 450K methylation arrays on 60 
+neuroblastoma tumors. We show that aggressive tumors, characterized by 
+International Neuroblastoma Risk Group (INRG) as stage M, are hypermethylated 
+compared to low-grade tumors. On the contrary, INRG stage L tumors display more 
+non-CpG methylation. The genes with the highest number of hypermethylated CpG 
+sites in INRG M tumors are TERT, PCDHGA4, DLX5, and DLX6-AS1. Gene ontology 
+analysis showed a representation of neuronal tumor relevant gene functions among 
+the differentially methylated genes. For validation, we used a set of 
+independent tumors previously analyzed with the Illumina 27K methylation arrays, 
+which confirmed the differentially methylated sites. Top candidate genes with 
+aberrant methylation were analyzed for altered gene expression through the R2 
+platform ( http://r2.amc.nl), and for correlations between methylation and gene 
+expression in a public dataset. Altered expression in nonsurvivors was found for 
+the genes B3GALT4 and KIAA1949, CLIC5, DLX6-AS, TERT, and PIRT, and strongest 
+correlations were found for TRIM36, KIAA0513, and PIRT. Our data indicate that 
+methylation profiling can be used for patient stratification and informs on 
+epigenetically deregulated genes with the potential of increasing our knowledge 
+about the underlying mechanisms of tumor development.
+
+DOI: 10.1080/15592294.2016.1138195
+PMCID: PMC4846113
+PMID: 26786290 [Indexed for MEDLINE]
+
+
+11. J Extracell Vesicles. 2019 Apr 11;8(1):1597614. doi: 
+10.1080/20013078.2019.1597614. eCollection 2019.
+
+Exosomes from N-Myc amplified neuroblastoma cells induce migration and confer 
+chemoresistance to non-N-Myc amplified cells: implications of intra-tumour 
+heterogeneity.
+
+Fonseka P(1), Liem M(1), Ozcitti C(1), Adda CG(1), Ang CS(2), Mathivanan S(1).
+
+Author information:
+(1)Department of Biochemistry and Genetics, La Trobe Institute for Molecular 
+Science, La Trobe University, Melbourne, Australia.
+(2)The Bio21 Molecular Science and Biotechnology Institute, University of 
+Melbourne, Parkville, Australia.
+
+Neuroblastoma accounts for 15% of childhood cancer mortality. Amplification of 
+the oncogene N-Myc is a well-established poor prognostic marker for 
+neuroblastoma. Whilst N-Myc amplification status strongly correlates with higher 
+tumour aggression and resistance to treatment, the role of N-Myc in the 
+aggressiveness of the disease is poorly understood. Exosomes are released by 
+many cell types including cancer cells and are implicated as key mediators in 
+cell-cell communication via the transfer of molecular cargo. Hence, 
+characterising the exosomal protein components from N-Myc amplified and 
+non-amplified neuroblastoma cells will improve our understanding on their role 
+in the progression of neuroblastoma. In this study, a comparative proteomic 
+analysis of exosomes isolated from cells with varying N-Myc amplification status 
+was performed. Label-free quantitative proteomic profiling revealed 968 proteins 
+that are differentially abundant in exosomes released by the neuroblastoma 
+cells. Gene ontology-based analysis highlighted the enrichment of proteins 
+involved in cell communication and signal transduction in N-Myc amplified 
+exosomes. Treatment of SH-SY5Y cells with N-Myc amplified SK-N-BE2 cell-derived 
+exosomes increased the migratory potential, colony forming abilities and 
+conferred resistance to doxorubicin induced apoptosis. Incubation of exosomes 
+from N-Myc knocked down SK-N-BE2 cells abolished the transfer of resistance to 
+doxorubicin induced apoptosis. These findings suggest that exosomes could play a 
+pivotal role in N-Myc-driven aggressive neuroblastoma and transfer of 
+chemoresistance between cells. Abbreviations: RNA = ribonucleic acid; DNA = 
+deoxyribonucleic acid; FCS = foetal calf serum; NTA = nanoparticle tracking 
+analysis; LC-MS = liquid chromatography-mass spectrometry; KD = knockdown; LTQ = 
+linear trap quadropole; TEM = transmission electron microscopy.
+
+DOI: 10.1080/20013078.2019.1597614
+PMCID: PMC6461098
+PMID: 31007876
+
+
+12. Hum Reprod. 2019 Nov 1;34(11):2297-2310. doi: 10.1093/humrep/dez134.
+
+Human induced pluripotent stem cells from two azoospermic patients with 
+Klinefelter syndrome show similar X chromosome inactivation behavior to female 
+pluripotent stem cells.
+
+Panula S(1)(2), Kurek M(3), Kumar P(1)(2), Albalushi H(3)(4), Padrell Sánchez 
+S(1)(2), Damdimopoulou P(1), Olofsson JI(5), Hovatta O(1), Lanner F(1)(2), 
+Stukenborg JB(3).
+
+Author information:
+(1)Department of Clinical Sciences, Intervention and Technology, Division of 
+Gynecology and Reproductive Medicine, Karolinska Institutet and Karolinska 
+University Hospital, Stockholm, Sweden.
+(2)Ming Wai Lau Centre for Reparative Medicine, Karolinska Institutet, 
+Stockholm, Sweden.
+(3)NORDFERTIL Research Laboratory Stockholm, Childhood Cancer Research Unit, 
+Bioclinicum J9:30, Department of Women's and Children's Health, Karolinska 
+Institutet and Karolinska University Hospital, Solna, Sweden.
+(4)College of Medicine and Health Sciences, Sultan Qaboos University, Muscat, 
+Oman.
+(5)Division of Obstetrics and Gynecology, Department of Women's and Children's 
+Health, Karolinska Institutet and Karolinska University Hospital, Solna, Sweden.
+
+STUDY QUESTION: Does the X chromosome inactivation (XCI) of Klinefelter syndrome 
+(KS)-derived human induced pluripotent stem cells (hiPSCs) correspond to female 
+human pluripotent stem cells (hPSCs) and reflect the KS genotype?
+SUMMARY ANSWER: Our results demonstrate for the first time that KS-derived 
+hiPSCs show similar XCI behavior to female hPSCs in culture and show biological 
+relevance to KS genotype-related clinical features.
+WHAT IS KNOWN ALREADY: So far, assessment of XCI of KS-derived hiPSCs was based 
+on H3K27me3 staining and X-inactive specific transcript gene expression 
+disregarding the at least three XCI states (XaXi with XIST coating, XaXi lacking 
+XIST coating, and XaXe (partially eroded XCI)) that female hPSCs display in 
+culture.
+STUDY DESIGN, SIZE, DURATION: The study used hiPSC lines generated from two 
+azoospermic patients with KS and included two healthy male (HM) and one healthy 
+female donor.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: In this study, we derived hiPSCs by 
+reprograming fibroblasts with episomal plasmids and applying laminin 521 as 
+culture substrate. hiPSCs were characterized by karyotyping, 
+immunocytochemistry, immunohistochemistry, quantitative PCR, teratoma formation, 
+and embryoid body differentiation. XCI and KS hiPSC relevance were assessed by 
+whole genome transcriptomics analysis and immunocytochemistry plus FISH of KS, 
+HM and female fibroblast, and their hiPSC derivatives.
+MAIN RESULTS AND THE ROLE OF CHANCE: Applying whole genome transcriptomics 
+analysis, we could identify differentially expressed genes (DEGs) between KS and 
+HM donors with enrichment in gene ontology terms associated with fertility, 
+cardiovascular development, ossification, and brain development, all associated 
+with KS genotype-related clinical features. Furthermore, XCI analysis based on 
+transcriptomics data, RNA FISH, and H3K27me3 staining revealed variable XCI 
+states of KS hiPSCs similar to female hiPSCs, showing either normal (XaXi) or 
+eroded (XaXe) XCI. KS hiPSCs with normal XCI showed nevertheless upregulated 
+X-linked genes involved in nervous system development as well as synaptic 
+transmission, supporting the potential use of KS-derived hiPSCs as an in vitro 
+model for KS.
+LIMITATIONS, REASONS FOR CAUTION: Detailed clinical information for patients 
+included in this study was not available. Although a correlation between DEGs 
+and the KS genotype could be observed, the biological relevance of these cells 
+has to be confirmed with further experiments. In addition, karyotype analysis 
+for two hiPSC lines was performed at passage 12 but not repeated at a later 
+passage. Nevertheless, since all XCI experiments for those lines were performed 
+between passage 11 and 15 the authors expect no karyotypic changes for those 
+experiments.
+WIDER IMPLICATIONS OF THE FINDINGS: As KS patients have variable clinical 
+phenotypes that are influenced by the grade of aneuploidy, mosaicism, origin of 
+the X chromosome, and XCI 'escapee' genes, which vary not only among individuals 
+but also among different tissues within the same individual, differentiated KS 
+hiPSCs could be used for a better understanding of KS pathogenesis.
+STUDY FUNDING/COMPETING INTEREST(S): This study was supported by grants from the 
+Knut and Alice Wallenberg Foundation (2016.0121 and 2015.0096), Ming Wai Lau 
+Centre for Reparative Medicine (2-343/2016), Ragnar Söderberg Foundation 
+(M67/13), Swedish Research Council (2013-32485-100360-69), the Centre for 
+Innovative Medicine (2-388/2016-40), Kronprinsessan Lovisas Förening För 
+Barnasjukvård/Stiftelsen Axel Tielmans Minnesfond, Samariten Foundation, 
+Jonasson Center at the Royal Institute of Technology, Sweden, and Initial 
+Training Network Marie Curie Program 'Growsperm' (EU-FP7-PEOPLE-2013-ITN 
+603568). The authors declare no conflicts of interest.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+European Society of Human Reproduction and Embryology. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/humrep/dez134
+PMCID: PMC6894010
+PMID: 31743397
+
+
+13. Pediatr Blood Cancer. 2018 Nov;65(11):e27350. doi: 10.1002/pbc.27350. Epub 2018 
+Jul 15.
+
+Parent-child communication surrounding genetic testing for Li-Fraumeni syndrome: 
+Living under the cloud of cancer.
+
+Valdez JM(1)(2), Walker B(3), Ogg S(3), Gattuso J(3), Alderfer MA(4), Zelley 
+K(5), Ford CA(6), Baker JN(7), Mandrell BN(3), Nichols KE(1)(2).
+
+Author information:
+(1)Division of Cancer Predisposition, St. Jude Children's Research Hospital, 
+Memphis, Tennessee.
+(2)Department of Oncology, St. Jude Children's Research Hospital, Memphis, 
+Tennessee.
+(3)Division of Nursing Research, St. Jude Children's Research Hospital, Memphis, 
+Tennessee.
+(4)Center for Healthcare Delivery Science, Nemours Children's Health System, 
+Wilmington, Delaware.
+(5)Division of Oncology, The Children's Hospital of Philadelphia, Philadelphia, 
+Philadelphia.
+(6)Division of Adolescent Medicine, The Children's Hospital of Philadelphia, 
+Philadelphia, Philadelphia.
+(7)Division of Quality of Life and Palliative Care, St. Jude Children's Research 
+Hospital, Memphis, Tennessee.
+
+BACKGROUND: Advances in the application of genetic technologies reveal a growing 
+number of heritable disorders associated with an increased risk to develop 
+cancer during childhood. As genetic testing is increasingly employed in the 
+clinical setting, it is essential to understand whether parents communicate with 
+their children about test results and to elucidate the factors that influence 
+the content and outcomes of these conversations.
+METHODS: Semistructured interviews were conducted with 14 parents whose children 
+tested positive for Li-Fraumeni syndrome (LFS). Semantic content analysis was 
+performed on transcribed interviews, focusing on questions related to 
+parent-child conversations about the genetic testing process and disclosure of 
+positive test results.
+RESULTS: All parents emphasized the importance of involving children in 
+conversations about LFS. The majority (93%) identified as being part of "cancer 
+families" in which prior experiences with cancer created opportunities for 
+communication. While all had spoken with their children about cancer, only seven 
+(50%) specifically disclosed to their children that they had tested positive for 
+LFS. The most common reason cited for nondisclosure at the time of this study 
+was the young age of the children.
+CONCLUSION: Parents of children with LFS desire open conversations about genetic 
+testing and cancer risk. These conversations are challenging yet essential to 
+enable child understanding of genetic risk status and enhance compliance with 
+health-promoting and cancer surveillance measures. Development of 
+age-appropriate educational materials and novel clinical models to facilitate 
+parent-child conversations about genetic test results and risk status for cancer 
+are needed.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/pbc.27350
+PMID: 30009566 [Indexed for MEDLINE]
+
+
+14. Hum Mol Genet. 2018 Apr 15;27(8):1411-1420. doi: 10.1093/hmg/ddy051.
+
+14q32 and let-7 microRNAs regulate transcriptional networks in fetal and adult 
+human erythroblasts.
+
+Lessard S(1)(2), Beaudoin M(1), Orkin SH(3)(4), Bauer DE(3), Lettre G(1)(2).
+
+Author information:
+(1)Montreal Heart Institute, Montréal, QC H1T 1C8, Canada.
+(2)Faculté de Médecine, Université de Montréal, Montréal, QC H3T 1J4, Canada.
+(3)Division of Hematology/Oncology, Boston Children's Hospital, Department of 
+Pediatric Oncology, Dana-Farber Cancer Institute, Harvard Stem Cell Institute, 
+Department of Pediatrics, Harvard Medical School, Boston, MA 02115, USA.
+(4)Howard Hughes Medical Institute, Boston, MA 02115, USA.
+
+In humans, fetal erythropoiesis takes place in the liver whereas adult 
+erythropoiesis occurs in the bone marrow. Fetal and adult erythroid cells are 
+not only produced at different sites, but are also distinguished by their 
+respective transcriptional program. In particular, whereas fetal erythroid cells 
+express γ-globin chains to produce fetal hemoglobin (HbF), adult cells express 
+β-globin chains to generate adult hemoglobin. Understanding the transcriptional 
+regulation of the fetal-to-adult hemoglobin switch is clinically important as 
+re-activation of HbF production in adult erythroid cells would represent a 
+promising therapy for the hemoglobin disorders sickle cell disease and 
+β-thalassemia. We used RNA-sequencing to measure global gene and microRNA 
+(miRNA) expression in human erythroblasts derived ex vivo from fetal liver (n = 
+12 donors) and bone marrow (n = 12 donors) hematopoietic stem/progenitor cells. 
+We identified 7829 transcripts and 402 miRNA that were differentially expressed 
+(false discovery rate <5%). The miRNA expression patterns were replicated in an 
+independent collection of human erythroblasts using a different technology. By 
+combining gene and miRNA expression data, we developed transcriptional networks 
+which show substantial differences between fetal and adult human erythroblasts. 
+Our analyses highlighted the miRNAs at the imprinted 14q32 locus in fetal 
+erythroblasts and the let-7 miRNA family in adult erythroblasts as key 
+regulators of stage-specific erythroid transcriptional programs. Altogether, our 
+results provide a comprehensive resource to prioritize genes that may modify 
+clinical severity in red blood cell (RBC) disorders, or genes that might be 
+implicated in erythropoiesis by genome-wide association studies of RBC traits.
+
+DOI: 10.1093/hmg/ddy051
+PMCID: PMC6251675
+PMID: 29432581 [Indexed for MEDLINE]
+
+
+15. J Palliat Med. 2016 Mar;19(3):326-32. doi: 10.1089/jpm.2015.0253. Epub 2016 Feb 
+10.
+
+Parental Perspectives of Communication at the End of Life at a Pediatric 
+Oncology Institution.
+
+Snaman JM(1), Torres C(2), Duffy B, Levine DR(1)(3), Gibson DV(1)(3), Baker 
+JN(1)(3).
+
+Author information:
+(1)1 Department of Oncology, St. Jude Children's Research Hospital , Memphis, 
+Tennessee.
+(2)2 Department of Psychology, University of Memphis , Memphis, Tennessee.
+(3)3 Division of Quality of Life and Palliative Care, St. Jude Children's 
+Research Hospital , Memphis, Tennessee.
+
+BACKGROUND: The interaction of health care providers and hospital staff with 
+patients and families at the end of life affects the parental grief experience. 
+Both verbal and nonverbal communication are key components of this interaction.
+OBJECTIVE: The study objective was to explore the communication between hospital 
+staff members and patients and families at the time of patients' health decline 
+near the end of life.
+METHODS: Twelve bereaved parents participated in a focus group. Semantic content 
+analysis was used to analyze the transcript.
+RESULTS: Parents' responses to the prompt about typical ways the medical team 
+communicated yielded 109 codes, which were grouped into 12 themes. The most 
+common themes were "patient inclusion" and "explanation of medical plan," both 
+used in 17% of responses. Responses to the prompt about positive and negative 
+aspects of communication generated 208 codes, yielding 15 different themes. The 
+most common theme about positive communication was the "strong relationship 
+between family and staff." The theme "variations in care with a negative impact" 
+was used most frequently in describing negative communication.
+CONCLUSION: This study helps to identify techniques that should be used by 
+clinicians as they work with children with cancer and their families, 
+particularly including patients in treatment decisions, ongoing relationship 
+building, communicating with caring and empathy, using an interdisciplinary team 
+for additional support, and pairing bad news with a plan of action.
+
+DOI: 10.1089/jpm.2015.0253
+PMID: 26862782 [Indexed for MEDLINE]
+
+
+16. EBioMedicine. 2015 Jul 8;2(7):660-70. doi: 10.1016/j.ebiom.2015.06.022. 
+eCollection 2015 Jul.
+
+Loss of photoreceptorness and gain of genomic alterations in retinoblastoma 
+reveal tumor progression.
+
+Kooi IE(1), Mol BM(1), Moll AC(2), van der Valk P(3), de Jong MC(4), de Graaf 
+P(4), van Mil SE(1), Schouten-van Meeteren AY(5), Meijers-Heijboer H(1), Kaspers 
+GL(6), Te Riele H(7), Cloos J(8), Dorsman JC(1).
+
+Author information:
+(1)Department of Clinical Genetics, VU University Medical Center, Room J-376, 
+Van der Boechorststraat 7, 108 1BT Amsterdam, The Netherlands.
+(2)Department of Ophthalmology, VU University Medical Center, Amsterdam, The 
+Netherlands.
+(3)Department of Pathology, VU University Medical Center, 3E47, De Boelelaan 
+1117, 1081 HV Amsterdam, The Netherlands.
+(4)Department of Radiology and Nuclear Medicine, VU University Medical Center, 4 
+F005, De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands.
+(5)Department of Pediatric Oncology, Emma Children's Hospital, Academic Medical 
+Center (AMC), Postbus 22660, 1100 DD Amsterdam, The Netherlands.
+(6)Department of Pediatric Oncology/Hematology, VU University Medical Center, 
+9D28, De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands.
+(7)Department of Clinical Genetics, VU University Medical Center, Room J-376, 
+Van der Boechorststraat 7, 108 1BT Amsterdam, The Netherlands ; Division of 
+Biological Stress Response, Netherlands Cancer Institute, Plesmanlaan 121, 1066 
+CX Amsterdam, The Netherlands.
+(8)Department of Pediatric Oncology/Hematology, VU University Medical Center, 
+9D28, De Boelelaan 1117, 1081 HV Amsterdam, The Netherlands ; Department of 
+Hematology, VU University Medical Center, CCA 3.26, De Boelelaan 1117, 1081 HV 
+Amsterdam, The Netherlands.
+
+BACKGROUND: Retinoblastoma is a pediatric eye cancer associated with RB1 loss or 
+MYCN amplification (RB1 (+/+) MYCN(A) ). There are controversies concerning the 
+existence of molecular subtypes within RB1(-/-) retinoblastoma. To test whether 
+these molecular subtypes exist, we performed molecular profiling.
+METHODS: Genome-wide mRNA expression profiling was performed on 76 primary human 
+retinoblastomas. Expression profiling was complemented by genome-wide DNA 
+profiling and clinical, histopathological, and ex vivo drug sensitivity data.
+FINDINGS: RNA and DNA profiling identified major variability between 
+retinoblastomas. While gene expression differences between RB1 (+/+) MYCN(A) and 
+RB1(-/-) tumors seemed more dichotomous, differences within the RB1(-/-) tumors 
+were gradual. Tumors with high expression of a photoreceptor gene signature were 
+highly differentiated, smaller in volume and diagnosed at younger age compared 
+with tumors with low photoreceptor signature expression. Tumors with lower 
+photoreceptor expression showed increased expression of genes involved in 
+M-phase and mRNA and ribosome synthesis and increased frequencies of somatic 
+copy number alterations.
+INTERPRETATION: Molecular, clinical and histopathological differences between 
+RB1(-/-) tumors are best explained by tumor progression, reflected by a gradual 
+loss of differentiation and photoreceptor expression signature. Since copy 
+number alterations were more frequent in tumors with less photoreceptorness, 
+genomic alterations might be drivers of tumor progression.
+RESEARCH IN CONTEXT: Retinoblastoma is an ocular childhood cancer commonly 
+caused by mutations in the RB1 gene. In order to determine optimal treatment, 
+tumor subtyping is considered critically important. However, except for very 
+rare retinoblastomas without an RB1 mutation, there are controversies as to 
+whether subtypes of retinoblastoma do exist. Our study shows that 
+retinoblastomas are highly diverse but rather than reflecting distinct tumor 
+types with a different etiology, our data suggests that this diversity is a 
+result of tumor progression driven by cumulative genetic alterations. Therefore, 
+retinoblastomas should not be categorized in distinct subtypes, but be described 
+according to their stage of progression.
+
+DOI: 10.1016/j.ebiom.2015.06.022
+PMCID: PMC4534696
+PMID: 26288838 [Indexed for MEDLINE]
+
+
+17. Stud Health Technol Inform. 2018;247:21-25.
+
+XplOit: An Ontology-Based Data Integration Platform Supporting the Development 
+of Predictive Models for Personalized Medicine.
+
+Weiler G(1), Schwarz U(2), Rauch J(1), Rohm K(1), Lehr T(3), Theobald S(4), 
+Kiefer S(1), Götz K(3), Och K(3), Pfeifer N(5), Handl L(5), Smola S(6), Ihle 
+M(7), Turki AT(8), Beelen DW(8), Rissland J(6), Bittenbring J(9), Graf N(4).
+
+Author information:
+(1)Fraunhofer Institute for Biomedical Engineering, St. Ingbert, Germany.
+(2)Institute for formal ontologies and medical information science.
+(3)Clinical Pharmacy.
+(4)Department of Pediatric Oncology and Hematology.
+(5)University of Tübingen, Germany.
+(6)Institute of Virology.
+(7)Averbis GmbH, Freiburg, Germany.
+(8)Department of Bone Marrow Transplantation, West-German Cancer Center, 
+University Hospital Essen, Germany.
+(9)Department of Internal Medicine 1, Saarland University, Germany.
+
+Predictive models can support physicians to tailor interventions and treatments 
+to their individual patients based on their predicted response and risk of 
+disease and help in this way to put personalized medicine into practice. In 
+allogeneic stem cell transplantation risk assessment is to be enhanced in order 
+to respond to emerging viral infections and transplantation reactions. However, 
+to develop predictive models it is necessary to harmonize and integrate high 
+amounts of heterogeneous medical data that is stored in different health 
+information systems. Driven by the demand for predictive instruments in 
+allogeneic stem cell transplantation we present in this paper an ontology-based 
+platform that supports data owners and model developers to share and harmonize 
+their data for model development respecting data privacy.
+
+PMID: 29677915 [Indexed for MEDLINE]
+
+
+18. Front Oncol. 2012 Dec 17;2:194. doi: 10.3389/fonc.2012.00194. eCollection 2012.
+
+Identification of cell surface proteins as potential immunotherapy targets in 12 
+pediatric cancers.
+
+Orentas RJ(1), Yang JJ, Wen X, Wei JS, Mackall CL, Khan J.
+
+Author information:
+(1)Immunology Section, Pediatric Oncology Branch, Center for Cancer Research, 
+National Cancer Institute, National Institutes of Health Bethesda, MD, USA.
+
+Technological advances now allow us to rapidly produce CARs and other 
+antibody-derived therapeutics targeting cell surface receptors. To maximize the 
+potential of these new technologies, relevant extracellular targets must be 
+identified. The Pediatric Oncology Branch of the NCI curates a freely accessible 
+database of gene expression data for both pediatric cancers and normal tissues, 
+through which we have defined discrete sets of over-expressed transcripts in 12 
+pediatric cancer subtypes as compared to normal tissues. We coupled gene 
+expression profiles to current annotation databases (i.e., Affymetrix, Gene 
+Ontology, Entrez Gene), in order to categorize transcripts by their sub-cellular 
+location. In this manner we generated a list of potential immune targets 
+expressed on the cell surface, ranked by their difference from normal tissue. 
+Global differences from normal between each of the pediatric tumor types studied 
+varied, indicating that some malignancies expressed transcript sets that were 
+more highly diverged from normal tissues than others. The validity of our 
+approach is seen by our findings for pre-B cell ALL, where targets currently in 
+clinical trials were top-ranked hits (CD19, CD22). For some cancers, reagents 
+already in development could potentially be applied to a new disease class, as 
+exemplified by CD30 expression on sarcomas. Moreover, several potential new 
+targets shared among several pediatric solid tumors are herein identified, such 
+as MCAM (MUC18), metadherin (MTDH), and glypican-2 (GPC2). These targets have 
+been identified at the mRNA level and are yet to be validated at the protein 
+level. The safety of targeting these antigens has yet to be demonstrated and 
+therefore the identified transcripts should be considered preliminary candidates 
+for new CAR and therapeutic antibody targets. Prospective candidate targets will 
+be evaluated by proteomic analysis including Westerns and immunohistochemistry 
+of normal and tumor tissues.
+
+DOI: 10.3389/fonc.2012.00194
+PMCID: PMC3523547
+PMID: 23251904
+
+
+19. Epigenetics Chromatin. 2015 Dec 2;8:53. doi: 10.1186/s13072-015-0046-0. 
+eCollection 2015.
+
+Functionally distinct patterns of nucleosome remodeling at enhancers in 
+glucocorticoid-treated acute lymphoblastic leukemia.
+
+Wu JN(#)(1), Pinello L(#)(2), Yissachar E(3), Wischhusen JW(4), Yuan GC(2), 
+Roberts CWM(5).
+
+Author information:
+(1)Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA 
+USA.
+(2)Department of Biostatistics and Computational Biology, Dana-Farber Cancer 
+Institute and Harvard T. H. Chan School of Public Heath, Boston, MA USA.
+(3)SBH Sciences Inc., Natick, MA USA.
+(4)Morsani College of Medicine, Tampa, FL USA.
+(5)Department of Oncology, St. Jude Children's Research Hospital, 262 Danny 
+Thomas Place, MS 281, Memphis, TN 38105 USA.
+(#)Contributed equally
+
+BACKGROUND: Precise nucleosome positioning is an increasingly recognized feature 
+of promoters and enhancers, reflecting complex contributions of DNA sequence, 
+nucleosome positioning, histone modification and transcription factor binding to 
+enhancer activity and regulation of gene expression. Changes in nucleosome 
+position and occupancy, histone variants and modifications, and chromatin 
+remodeling are also critical elements of dynamic transcriptional regulation, but 
+poorly understood at enhancers. We investigated glucocorticoid 
+receptor-associated (GR) nucleosome dynamics at enhancers in acute lymphoblastic 
+leukemia.
+RESULTS: For the first time, we demonstrate functionally distinct modes of 
+nucleosome remodeling upon chromatin binding by GR, which we term central, 
+non-central, phased, and minimal. Central and non-central remodeling reflect 
+nucleosome eviction by GR and cofactors, respectively. Phased remodeling 
+involves nucleosome repositioning and is associated with rapidly activated 
+enhancers and induction of gene expression. Minimal remodeling sites initially 
+have low levels of enhancer-associated histone modification, but the majority of 
+these regions gain H3K4me2 or H3K27Ac to become de novo enhancers. Minimal 
+remodeling regions are associated with gene ontologies specific to decreased B 
+cell number and mTOR inhibition and may make unique contributions to 
+glucocorticoid-induced leukemia cell death.
+CONCLUSIONS: Our findings form a novel framework for understanding the dynamic 
+interplay between transcription factor binding, nucleosome remodeling, enhancer 
+function, and gene expression in the leukemia response to glucocorticoids.
+
+DOI: 10.1186/s13072-015-0046-0
+PMCID: PMC4667523
+PMID: 26633995
+
+
+20. Curr Opin Biotechnol. 2020 Jun;63:126-134. doi: 10.1016/j.copbio.2019.12.021. 
+Epub 2020 Jan 18.
+
+Incorporating biological structure into machine learning models in biomedicine.
+
+Crawford J(1), Greene CS(2).
+
+Author information:
+(1)Graduate Group in Genomics and Computational Biology, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA, United States; 
+Department of Systems Pharmacology and Translational Therapeutics, Perelman 
+School of Medicine, University of Pennsylvania, Philadelphia, PA, United States.
+(2)Department of Systems Pharmacology and Translational Therapeutics, Perelman 
+School of Medicine, University of Pennsylvania, Philadelphia, PA, United States; 
+Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, PA, 
+United States. Electronic address: greenescientist@gmail.com.
+
+In biomedical applications of machine learning, relevant information often has a 
+rich structure that is not easily encoded as real-valued predictors. Examples of 
+such data include DNA or RNA sequences, gene sets or pathways, gene interaction 
+or coexpression networks, ontologies, and phylogenetic trees. We highlight 
+recent examples of machine learning models that use structure to constrain model 
+architecture or incorporate structured data into model training. For machine 
+learning in biomedicine, where sample size is limited and model interpretability 
+is crucial, incorporating prior knowledge in the form of structured data can be 
+particularly useful. The area of research would benefit from performant open 
+source implementations and independent benchmarking efforts.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.copbio.2019.12.021
+PMCID: PMC7308204
+PMID: 31962244
+
+Conflict of interest statement: Conflict of interest statement Nothing declared.
+
+
+21. Rev Lat Am Enfermagem. 2014 Jul-Aug;22(4):591-7. doi: 
+10.1590/0104-1169.3077.2456.
+
+Cultural adaptation to Brazil of the questionnaire Costs of caring for children 
+with cancer.
+
+Pan R(1), Marques AR(1), dos Santos BD(1), Jacob E(2), dos Santos CB(1), 
+Nascimento LC(1).
+
+Author information:
+(1)Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo, Ribeirão 
+Preto, SP, Brazil.
+(2)School of Nursing, University of California, Los Angeles, California, USA.
+
+OBJECTIVE: to present the cultural adaptation of the questionnaire Costs of 
+caring for children with cancer, offering a valid and reliable tool to assess 
+the economic repercussions of childhood cancer for Brazilian families.
+METHOD: it is a methodological research with a cross-sectional design. The 
+methodological framework to validate the questionnaire was a combined process 
+that included seven steps: translation to Portuguese; first translated consensus 
+version; evaluation by Expert Committee; consensus on the Expert Committee 
+version; back-translation; consensus of back-translated versions; semantic 
+validation. The study was conducted in two phases: phase one was the translation 
+and back-translations process, with five expert committee members. Phase two was 
+the semantic validation, with 24 participants, who answered an instrument about 
+their impressions of the questionnaire and suggested modifications.
+RESULTS: in phase one, items were included, excluded, and replaced to make the 
+content equivalent and valid for use with Brazilian context. In phase two, the 
+majority of the participants were mothers, who made suggestions about the 
+relevance and clarity of the items in the questionnaire.
+CONCLUSIONS: the authors discussed these recommendations and made adaptations, 
+turning the questionnaire into a valid and reliable tool for application.
+
+DOI: 10.1590/0104-1169.3077.2456
+PMCID: PMC4292642
+PMID: 25296142 [Indexed for MEDLINE]
+
+
+22. Cancer Res. 2013 Oct 15;73(20):6264-76. doi: 10.1158/0008-5472.CAN-13-0122-T. 
+Epub 2013 Aug 15.
+
+BRD4 sustains melanoma proliferation and represents a new target for epigenetic 
+therapy.
+
+Segura MF(1), Fontanals-Cirera B, Gaziel-Sovran A, Guijarro MV, Hanniford D, 
+Zhang G, González-Gomez P, Morante M, Jubierre L, Zhang W, Darvishian F, 
+Ohlmeyer M, Osman I, Zhou MM, Hernando E.
+
+Author information:
+(1)Authors' Affiliations: Departments of Pathology and Dermatology, New York 
+University School of Medicine; Interdisciplinary Melanoma Cooperative Group, New 
+York University Cancer Institute, New York University Langone Medical Center; 
+Departments of Structural and Chemical Biology and Medicine, Icahn School of 
+Medicine at Mount Sinai, New York, New York; Instituto de Salud Carlos III, 
+Majadahonda, Madrid; and Laboratory of Translational Research in Childhood 
+Cancer, Vall d'Hebrón Institut de Recerca (VHIR), Barcelona, Spain.
+
+Metastatic melanoma remains a mostly incurable disease. Although newly approved 
+targeted therapies are efficacious in a subset of patients, resistance and 
+relapse rapidly ensue. Alternative therapeutic strategies to manipulate 
+epigenetic regulators and disrupt the transcriptional program that maintains 
+tumor cell identity are emerging. Bromodomain and extraterminal domain (BET) 
+proteins are epigenome readers known to exert key roles at the interface between 
+chromatin remodeling and transcriptional regulation. Here, we report that BRD4, 
+a BET family member, is significantly upregulated in primary and metastatic 
+melanoma tissues compared with melanocytes and nevi. Treatment with BET 
+inhibitors impaired melanoma cell proliferation in vitro and tumor growth and 
+metastatic behavior in vivo, effects that were mostly recapitulated by 
+individual silencing of BRD4. RNA sequencing of BET inhibitor-treated cells 
+followed by Gene Ontology analysis showed a striking impact on transcriptional 
+programs controlling cell growth, proliferation, cell-cycle regulation, and 
+differentiation. In particular, we found that, rapidly after BET displacement, 
+key cell-cycle genes (SKP2, ERK1, and c-MYC) were downregulated concomitantly 
+with the accumulation of cyclin-dependent kinase (CDK) inhibitors (p21 and p27), 
+followed by cell-cycle arrest. Importantly, BET inhibitor efficacy was not 
+influenced by BRAF or NRAS mutational status, opening the possibility of using 
+these small-molecule compounds to treat patients for whom no effective targeted 
+therapy exists. Collectively, our study reveals a critical role for BRD4 in 
+melanoma tumor maintenance and renders it a legitimate and novel target for 
+epigenetic therapy directed against the core transcriptional program of 
+melanoma.
+
+©2013 AACR.
+
+DOI: 10.1158/0008-5472.CAN-13-0122-T
+PMCID: PMC4254777
+PMID: 23950209 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure of Potential Conflicts of Interest 
+M.-M. Zhou, G. Zhang, and M. Ohlmeyer have ownership interest (including 
+patents) in patent on BrD ligands. No potential conflicts of interest were 
+disclosed by the other authors.
+
+
+23. Stud Health Technol Inform. 2019;258:247-248.
+
+Implementing LOINC: Current Status and Ongoing Work at the Hannover Medical 
+School.
+
+Fiebeck J(1), Gietzelt M(2), Ballout S(2), Christmann M(3), Fradziak M(1), Laser 
+H(1), Ruppel J(4), Schönfeld N(1), Teppner S(1), Gerbel S(1).
+
+Author information:
+(1)Center for Information Management, Hannover Medical School, Hannover.
+(2)Peter L. Reichertz Institute for Medical Informatics, University of 
+Braunschweig and Hannover Medical School, Hannover.
+(3)Institute for Medical Microbiology and Hospital Epidemiology, Hannover 
+Medical School, Hannover.
+(4)4Swiss Childhood Cancer Registry, ISPM, University of Bern, Bern.
+
+The Logical Observation Identifiers, Names and Codes (LOINC) is a common 
+terminology used for standardizing laboratory terms. Within the HiGHmed 
+consortium, LOINC is used as a central terminology for health data sharing 
+across all university hospital sites. Therefore, linking the LOINC codes to the 
+site-specific tests and measures is one crucial step to reach this goal. In this 
+work we report our ongoing work in implementing LOINC to the laboratory 
+information system, our challenges and lessons learned.
+
+PMID: 30942760 [Indexed for MEDLINE]
+
+
+24. J Transl Med. 2016 May 17;14(1):142. doi: 10.1186/s12967-016-0896-7.
+
+An 18 gene expression-based score classifier predicts the clinical outcome in 
+stage 4 neuroblastoma.
+
+Formicola D(1)(2), Petrosino G(1)(2), Lasorsa VA(1)(2), Pignataro P(1)(2), 
+Cimmino F(1)(2), Vetrella S(3), Longo L(4), Tonini GP(5), Oberthuer A(6), 
+Iolascon A(1)(2), Fischer M(6)(7), Capasso M(8)(9).
+
+Author information:
+(1)Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Università degli 
+Studi di Napoli Federico II, 80145, Naples, Italy.
+(2)CEINGE Biotecnolgie Avanzate Scarl, Naples, Italy.
+(3)Department of Oncology, Santobono-Pausilipon Children's Hospital, Naples, 
+Italy.
+(4)U.O.C. Bioterapie, IRCCS AOU San Martino-IST, National Cancer Research 
+Institute, Genoa, Italy.
+(5)Laboratory of Neuroblastoma, Onco/Hematology Department SDB University of 
+Padua, Pediatric Research Institute, Padua, Italy.
+(6)Department of Pediatric Oncology and Hematology, and Center for Molecular 
+Medicine Cologne (CMMC), University of Cologne Children's Hospital, Cologne, 
+Germany.
+(7)Max Planck Institute for Metabolism Research, Cologne, Germany.
+(8)Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Università degli 
+Studi di Napoli Federico II, 80145, Naples, Italy. mario.capasso@unina.it.
+(9)CEINGE Biotecnolgie Avanzate Scarl, Naples, Italy. mario.capasso@unina.it.
+
+BACKGROUND: The prognosis of children with metastatic stage 4 neuroblastoma (NB) 
+has remained poor in the past decade.
+PATIENTS AND METHODS: Using microarray analyses of 342 primary tumors, we here 
+developed and validated an easy to use gene expression-based risk score 
+including 18 genes, which can robustly predict the outcome of stage 4 patients.
+RESULTS: This classifier was a significant predictor of overall survival in two 
+independent validation cohorts [cohort 1 (n = 214): P = 6.3 × 10(-5); cohort 2 
+(n = 27): P = 3.1 × 10(-2)]. The prognostic value of the risk score was 
+validated by multivariate analysis including the established markers age and 
+MYCN status (P = 0.027). In the pooled validation cohorts (n = 241), integration 
+of the risk score with the age and/or MYCN status identified subgroups with 
+significantly differing overall survival (ranging from 35 to 100 %).
+CONCLUSION: Together, the 18-gene risk score classifier can identify patients 
+with stage 4 NB with favorable outcome and may therefore improve risk assessment 
+and treatment stratification of NB patients with disseminated disease.
+
+DOI: 10.1186/s12967-016-0896-7
+PMCID: PMC4870777
+PMID: 27188717 [Indexed for MEDLINE]
+
+
+25. Cancer Res. 2011 Apr 15;71(8):3142-51. doi: 10.1158/0008-5472.CAN-10-3014. Epub 
+2011 Mar 8.
+
+CAMTA1, a 1p36 tumor suppressor candidate, inhibits growth and activates 
+differentiation programs in neuroblastoma cells.
+
+Henrich KO(1), Bauer T, Schulte J, Ehemann V, Deubzer H, Gogolin S, Muth D, 
+Fischer M, Benner A, König R, Schwab M, Westermann F.
+
+Author information:
+(1)Division of Tumor Genetics B030, Clinical Cooperation Unit Pediatric Oncology 
+G340, German Cancer Research Center, Bioquant, Heidelberg, Germany. 
+k.henrich@dkfz.de
+
+A distal portion of human chromosome 1p is often deleted in neuroblastomas and 
+other cancers and it is generally assumed that this region harbors one or more 
+tumor suppressor genes. In neuroblastoma, a 261 kb region at 1p36.3 that 
+encompasses the smallest region of consistent deletion pinpoints the locus for 
+calmodulin binding transcription activator 1 (CAMTA1). Low CAMTA1 expression is 
+an independent predictor of poor outcome in multivariate survival analysis, but 
+its potential functionality in neuroblastoma has not been explored. In this 
+study, we used inducible cell models to analyze the impact of CAMTA1 on 
+neuroblastoma biology. In neuroblastoma cells that expressed little endogenous 
+CAMTA1, its ectopic expression slowed cell proliferation, increasing the 
+relative proportion of cells in G(1)/G(0) phases of the cell cycle, inhibited 
+anchorage-independent colony formation, and suppressed the growth of tumor 
+xenografts. CAMTA1 also induced neurite-like processes and markers of neuronal 
+differentiation in neuroblastoma cells. Further, retinoic acid and other 
+differentiation- inducing stimuli upregulated CAMTA1 expression in neuroblastoma 
+cells. Transciptome analysis revealed 683 genes regulated on CAMTA1 induction 
+and gene ontology analysis identified genes consistent with CAMTA1-induced 
+phenotypes, with a significant enrichment for genes involved in neuronal 
+function and differentiation. Our findings define properties of CAMTA1 in growth 
+suppression and neuronal differentiation that support its assignment as a 1p36 
+tumor suppressor gene in neuroblastoma.
+
+©2011 AACR.
+
+DOI: 10.1158/0008-5472.CAN-10-3014
+PMID: 21385898 [Indexed for MEDLINE]
+
+
+26. Cell Oncol (Dordr). 2017 Feb;40(1):33-45. doi: 10.1007/s13402-016-0303-7. Epub 
+2016 Oct 31.
+
+Network-based expression analysis reveals key genes related to glucocorticoid 
+resistance in infant acute lymphoblastic leukemia.
+
+Mousavian Z(1), Nowzari-Dalini A(2), Stam RW(3), Rahmatallah Y(4), Masoudi-Nejad 
+A(5).
+
+Author information:
+(1)Laboratory of Systems Biology and Bioinformatics (LBB), Institute of 
+Biochemistry and Biophysics, University of Tehran, Tehran, Iran.
+(2)School of Mathematics and Computer Science, University of Tehran, Tehran, 
+Iran.
+(3)Princess Maxima Center for Pediatric Oncology, Utrecht, The Netherlands.
+(4)Department of Biomedical Informatics, University of Arkansas for Medical 
+Sciences, Little Rock, AR, 72205, USA.
+(5)Laboratory of Systems Biology and Bioinformatics (LBB), Institute of 
+Biochemistry and Biophysics, University of Tehran, Tehran, Iran. 
+amasoudin@ut.ac.ir.
+
+PURPOSE: Despite vast improvements that have been made in the treatment of 
+children with acute lymphoblastic leukemia (ALL), the majority of infant ALL 
+patients (~80 %, < 1 year of age) that carry a chromosomal translocation 
+involving the mixed lineage leukemia (MLL) gene shows a poor response to 
+chemotherapeutic drugs, especially glucocorticoids (GCs), which are essential 
+components of all current treatment regimens. Although addressed in several 
+studies, the mechanism(s) underlying this phenomenon have remained largely 
+unknown. A major drawback of most previous studies is their primary focus on 
+individual genes, thereby neglecting the putative significance of inter-gene 
+correlations. Here, we aimed at studying GC resistance in MLL-rearranged infant 
+ALL patients by inferring an associated module of genes using co-expression 
+network analysis. The implications of newly identified candidate genes with 
+associations to other well-known relevant genes from the same module, or with 
+associations to known transcription factor or microRNA interactions, were 
+substantiated using literature data.
+METHODS: A weighted gene co-expression network was constructed to identify gene 
+modules associated with GC resistance in MLL-rearranged infant ALL patients. 
+Significant gene ontology (GO) terms and signaling pathways enriched in relevant 
+modules were used to provide guidance towards which module(s) consisted of 
+promising candidates suitable for further analysis.
+RESULTS: Through gene co-expression network analysis a novel set of genes 
+(module) related to GC-resistance was identified. The presence in this module of 
+the S100 and ANXA genes, both well-known biomarkers for GC resistance in 
+MLL-rearranged infant ALL, supports its validity. Subsequent gene set net 
+correlation analyses of the novel module provided further support for its 
+validity by showing that the S100 and ANXA genes act as 'hub' genes with 
+potentially major regulatory roles in GC sensitivity, but having lost this role 
+in the GC resistant phenotype. The detected module implicates new genes as being 
+candidates for further analysis through associations with known GC 
+resistance-related genes.
+CONCLUSIONS: From our data we conclude that available systems biology approaches 
+can be employed to detect new candidate genes that may provide further insights 
+into drug resistance of MLL-rearranged infant ALL cases. Such approaches 
+complement conventional gene-wise approaches by taking putative functional 
+interactions between genes into account.
+
+DOI: 10.1007/s13402-016-0303-7
+PMID: 27798768 [Indexed for MEDLINE]
+
+
+27. Version 2. Oncotarget. 2010 Dec;1(8):710-20. doi: 10.18632/oncotarget.205.
+
+miR-101 is down-regulated in glioblastoma resulting in EZH2-induced 
+proliferation, migration, and angiogenesis.
+
+Smits M(1), Nilsson J, Mir SE, van der Stoop PM, Hulleman E, Niers JM, de Witt 
+Hamer PC, Marquez VE, Cloos J, Krichevsky AM, Noske DP, Tannous BA, Würdinger T.
+
+Author information:
+(1)Neuro-oncology Research Group, Departments of Neurosurgery and Pediatric 
+Oncology/Hematology, Cancer Center Amsterdam, VU University Medical Center, 
+Amsterdam, the Netherlands.
+
+BACKGROUND: Glioblastoma (GBM) is a malignant brain tumor with dismal prognosis. 
+GBM patients have a median survival of less than 2 years. GBM is characterized 
+by fast cell proliferation, infiltrative migration, and by the induction of 
+angiogenesis. MicroRNAs and polycomb group (PcG) proteins have emerged as 
+important regulators of gene expression.
+METHODS: Here we determined that miR-101 is down-regulated in GBM, resulting in 
+overexpression of the miR-101 target PcG protein EZH2, a histone 
+methyltransferase affecting gene expression profiles in an epigenetic manner.
+RESULTS: Inhibition of EZH2 in vitro by pre-miR-101, EZH2 siRNA, or small 
+molecule DZNep, attenuated GBM cell growth, migration/invasion, and GBM-induced 
+endothelial tubule formation. In addition, for each biological process we 
+identified ontology-associated transcripts that significantly correlate with 
+EZH2 expression. Inhibition of EZH2 in vivo by systemic DZNep administration in 
+a U87-Fluc-mCherry GBM xenograft mouse imaging model resulted in reduced tumor 
+growth.
+CONCLUSION: Our results indicate that EZH2 has a versatile function in GBM 
+progression and that its overexpression is at least partly due to decreased 
+miR-101 expression. Inhibition of EZH2 may be a potential therapeutic strategy 
+to target GBM proliferation, migration, and angiogenesis.
+
+DOI: 10.18632/oncotarget.205
+PMCID: PMC3124376
+PMID: 21321380 [Indexed for MEDLINE]
+
+
+28. Transl Psychiatry. 2017 Aug 29;7(8):e1221. doi: 10.1038/tp.2017.181.
+
+Differential DNA methylation at birth associated with mental disorder in 
+individuals with 22q11.2 deletion syndrome.
+
+Starnawska A(1)(2)(3), Hansen CS(1)(4), Sparsø T(1)(5), Mazin W(6), Olsen 
+L(1)(5), Bertalan M(1)(5), Buil A(1)(5), Bybjerg-Grauholm J(1)(4), Bækvad-Hansen 
+M(1)(4), Hougaard DM(1)(4), Mortensen PB(1)(7)(8), Pedersen CB(1)(7)(8), 
+Nyegaard M(1)(2)(3), Werge T(1)(5)(9), Weinsheimer S(1)(5).
+
+Author information:
+(1)iPSYCH, The Lundbeck Foundation Initiative for Integrative Psychiatric 
+Research, Aarhus, Denmark.
+(2)Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+(3)iSEQ, Center for Integrative Sequencing, Aarhus University, Aarhus, Denmark.
+(4)Section of Neonatal Genetics, Department for Congenital Disorders, Danish 
+Centre for Neonatal Screening, Statens Serum Institute, Copenhagen, Denmark.
+(5)Institute of Biological Psychiatry, Mental Health Center, Sct. Hans, Mental 
+Health Services, Roskilde, Denmark.
+(6)Pediatric Oncology Research Laboratory, University Hospital Rigshospitalet, 
+Copenhagen, Denmark.
+(7)National Centre for Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(8)Centre for Integrated Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(9)Institute of Clinical Sciences, Faculty of Medicine and Health Sciences, 
+University of Copenhagen, Copenhagen, Denmark.
+
+Individuals with 22q11.2 deletion syndrome (DS) have an increased risk of 
+comorbid mental disorders including schizophrenia, attention deficit 
+hyperactivity disorder, depression, as well as intellectual disability. Although 
+most 22q11.2 deletion carriers have the long 3-Mb form of the hemizygous 
+deletion, there remains a large variation in the development and progression of 
+psychiatric disorders, which suggests that alternative factors contribute to the 
+pathogenesis. In this study we investigated whether neonatal DNA methylation 
+signatures in individuals with the 22q11.2 deletion associate with mental 
+disorder later in life. DNA methylation was measured genome-wide from neonatal 
+dried blood spots in a cohort of 164 individuals with 22q11.2DS, including 48 
+individuals diagnosed with a psychiatric disorder. Among several CpG sites with 
+P-value<10-6, we identified cg23546855 (P-value=2.15 × 10-7) mapping to STK32C 
+to be associated with a later psychiatric diagnosis. Pathway analysis of the top 
+findings resulted in the identification of several Gene Ontology pathways to be 
+significantly enriched (P-value<0.05 after Benjamini-Hochberg correction); among 
+them are the following: neurogenesis, neuron development, neuron projection 
+development, astrocyte development, axonogenesis and axon guidance. In addition, 
+we identified differentially methylated CpG sites in LRP2BP (P-value=5.37 × 
+10-8) to be associated with intellectual disability (F70-79), in TOP1 
+(P-value=1.86 × 10-7) with behavioral disorders (F90-98), in NOSIP (P-value=5.12 
+× 10-8) with disorders of psychological development (F80-89) and in SEMA4B 
+(P-value=4.02 × 10-7) with schizophrenia spectrum disorders (F20-29). In 
+conclusion, our study suggests an association of DNA methylation differences at 
+birth with development of mental disorder later in life in 22q11.2DS 
+individuals.
+
+DOI: 10.1038/tp.2017.181
+PMCID: PMC5611746
+PMID: 28850114 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
